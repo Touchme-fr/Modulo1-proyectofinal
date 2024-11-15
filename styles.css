@@ -1,0 +1,121 @@
+/* General */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #dc143c;
+  color: #fff;
+  text-align: center;
+  padding: 60px 20px;
+  background-image: url("https://josecardenas.com/wp-content/uploads/2015/07/2015-07-16_05-07-53___7490.jpg");
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+header p {
+  font-size: 1.2em;
+}
+
+nav {
+  background-color: #444;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 1.1em;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 1.8em;
+  color: #dc143c;
+  border-bottom: 2px solid #444;
+  padding-bottom: 5px;
+}
+
+p {
+  margin: 15px 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+ul,
+ol {
+  margin-left: 20px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  margin-top: 10px;
+}
+
+form input,
+form textarea {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form input[type="submit"] {
+  background-color: #dc143c;
+  color: white;
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+  transition: background 0.3s;
+}
+
+form input[type="submit"]:hover {
+  background-color: #a10e2d;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #444;
+  color: white;
+  margin-top: 20px;
+}
+
+footer a {
+  color: #ffdddd;
+}
