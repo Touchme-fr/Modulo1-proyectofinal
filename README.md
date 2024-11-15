@@ -23,7 +23,7 @@ Este proyecto no requiere instalaciones adicionales ni software especializado, y
 
 1. **Clonar el repositorio:** Clona el proyecto en tu máquina local mediante el siguiente comando:
 
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/Touchme-fr/Modulo1-proyectofinal
 2. **Abrir el archivo** Abre el archivo index.html en el navegador.
 
 ## Información del autor
